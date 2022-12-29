@@ -1,0 +1,1 @@
+vless://269cd335-ac68-43cf-a101-f6abe198690a@MidasDTS.Online:1000?security=none&encryption=none&headerType=http&type=tcp#%40MidasDTS
