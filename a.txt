@@ -1,9 +1,9 @@
-vless://@:0?security=none&encryption=none&headerType=none&type=tcp#------(🟢Online🟢)------
-vless://@:0?security=none&encryption=none&headerType=none&type=tcp#DataLeft: 50GB
-vless://@:0?security=none&encryption=none&headerType=none&type=tcp#LastUpdate: 
-vless://@:0?security=none&encryption=none&headerType=none&type=tcp#------(Servers)------
-vless://@:0?security=none&encryption=none&headerType=none&type=tcp#Datacenter01
-vless://@:0?security=none&encryption=none&headerType=none&type=tcp#Datacenter02
-vless://@:0?security=none&encryption=none&headerType=none&type=tcp#Datacenter03
-vless://@:0?security=none&encryption=none&headerType=none&type=tcp#NoDatacenter
-vless://@:0?security=none&encryption=none&headerType=none&type=tcp#------(@MidasDTS)------
+vless://row@:0?security=none&encryption=none&headerType=none&type=tcp#------(🟢Online🟢)------
+vless://row@:0?security=none&encryption=none&headerType=none&type=tcp#DataLeft: 50GB
+vless://row@:0?security=none&encryption=none&headerType=none&type=tcp#LastUpdate: 
+vless://row@:0?security=none&encryption=none&headerType=none&type=tcp#------(Servers)------
+vless://row@:0?security=none&encryption=none&headerType=none&type=tcp#Datacenter01
+vless://row@:0?security=none&encryption=none&headerType=none&type=tcp#Datacenter02
+vless://row@:0?security=none&encryption=none&headerType=none&type=tcp#Datacenter03
+vless://row@:0?security=none&encryption=none&headerType=none&type=tcp#NoDatacenter
+vless://row@:0?security=none&encryption=none&headerType=none&type=tcp#------(@MidasDTS)------
